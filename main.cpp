@@ -1,3 +1,6 @@
+#include <iostream>
+#include "knapSack.h"
+using namespace std;
 int main()
 {
 int val[] = { 60, 100 120 };
